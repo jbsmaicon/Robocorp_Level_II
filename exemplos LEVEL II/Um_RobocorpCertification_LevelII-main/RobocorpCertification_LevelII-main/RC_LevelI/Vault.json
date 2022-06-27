@@ -1,0 +1,7 @@
+{
+   "roboVariables":
+    {
+        "rsiURL": "https://robotsparebinindustries.com/#/robot-order",
+        "csvURL": "https://robotsparebinindustries.com/orders.csv"
+    }
+}
